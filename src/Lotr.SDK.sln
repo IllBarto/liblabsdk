@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibLab.Interview.Lotr.SDK", "LibLab.Interview.Lotr.SDK\LibLab.Interview.Lotr.SDK.csproj", "{9D74F2D4-76D3-485C-8BA6-53C18D40C5DE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibLab.Interview.Lotr.SDK.Tests", "LibLab.Interview.Lotr.SDK.Tests\LibLab.Interview.Lotr.SDK.Tests.csproj", "{5FC4FCD2-7F0B-4577-98D1-2E6CB60BC2E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibLab.Interview.Lotr.SDK.Models", "LibLab.Interview.Lotr.SDK.Models\LibLab.Interview.Lotr.SDK.Models.csproj", "{ED7E62C1-0E02-4C30-8063-45C6917A04B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibLab.Interview.Lotr.SDK.Interfaces", "LibLab.Interview.Lotr.SDK.Interfaces\LibLab.Interview.Lotr.SDK.Interfaces.csproj", "{E252BD7C-084E-4C39-BD16-ADD79010B0D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D74F2D4-76D3-485C-8BA6-53C18D40C5DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D74F2D4-76D3-485C-8BA6-53C18D40C5DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D74F2D4-76D3-485C-8BA6-53C18D40C5DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D74F2D4-76D3-485C-8BA6-53C18D40C5DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FC4FCD2-7F0B-4577-98D1-2E6CB60BC2E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC4FCD2-7F0B-4577-98D1-2E6CB60BC2E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC4FCD2-7F0B-4577-98D1-2E6CB60BC2E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC4FCD2-7F0B-4577-98D1-2E6CB60BC2E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED7E62C1-0E02-4C30-8063-45C6917A04B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED7E62C1-0E02-4C30-8063-45C6917A04B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED7E62C1-0E02-4C30-8063-45C6917A04B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED7E62C1-0E02-4C30-8063-45C6917A04B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E252BD7C-084E-4C39-BD16-ADD79010B0D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E252BD7C-084E-4C39-BD16-ADD79010B0D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E252BD7C-084E-4C39-BD16-ADD79010B0D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E252BD7C-084E-4C39-BD16-ADD79010B0D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {362352F8-6892-42EE-A933-83A583CB5BDF}
+	EndGlobalSection
+EndGlobal
